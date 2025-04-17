@@ -1,0 +1,99 @@
+<!--
+  ~ Copyright 2021 Sergio Belda Galbis
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name" translatable="false">ToDometer</string>
+
+    <string name="tasks">Tareas</string>
+    <string name="projects">Proyectos</string>
+    <string name="add">Añadir</string>
+    <string name="add_project">Añadir proyecto</string>
+    <string name="add_task">Añadir tarea</string>
+    <string name="add_to_do">Añadir To Do</string>
+    <string name="task">Tarea</string>
+    <string name="project">Proyecto</string>
+    <string name="description">Descripción</string>
+    <string name="to_do">To Do</string>
+    <string name="name">Nombre</string>
+    <string name="no_tasks">No hay tareas</string>
+    <string name="no_projects">No hay proyectos</string>
+    <string name="delete_project_dialog">Se eliminaran todas las tareas relacionadas. ¿Desea continuar?</string>
+    <string name="yes">Sí</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_task_button" translatable="false">delete_task_button</string>
+    <string name="project_icon" translatable="false">project_icon</string>
+    <string name="task_tag_color" translatable="false">task_tag_color</string>
+    <string name="task_icon" translatable="false">task_icon</string>
+    <string name="tag">Tag</string>
+    <string name="edit">Editar</string>
+    <string name="edit_task">Editar Tarea</string>
+    <string name="edit_project">Editar Proyecto</string>
+    <string name="delete_task_dialog">¿Desea eliminar esta tarea?</string>
+    <string name="isotype" translatable="false">isotype</string>
+    <string name="about">Acerca de</string>
+    <string name="open_source_licenses">Licencias de código abierto</string>
+    <string name="more_options">Más opciones</string>
+    <string name="theme">Tema</string>
+    <string name="follow_system">Predeterminado del sistema</string>
+    <string name="light_theme">Claro</string>
+    <string name="dark_theme">Oscuro</string>
+    <string name="choose_theme">Elegir un tema</string>
+    <string name="shared_preferences_key" translatable="false">shared_preferences</string>
+    <string name="github" translatable="false">GitHub</string>
+    <string name="terms_and_conditions">Términos y condiciones</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="github_url" translatable="false">https://github.com/serbelga/ToDometer</string>
+    <string name="privacy_policy_body" translatable="false">
+        <![CDATA[
+            <h6>User data</h6>
+            <div>
+                The ToDometer application does not store any user\'s data on
+                any server since it is an application that runs in a local environment
+                without the need for a connection. No user data is collected, transferred, or disclosed.
+            </div>
+            <br></br>
+            <h6>Permissions</h6>
+            <div>
+                The system does not require the user to grant any location or call and messaging permissions.
+            </div>
+            <br></br>
+            <h6>Device and network abuse</h6>
+            <div>
+                The system does not block or interfere with another application that displays advertisements.
+                It does not provide or provide instructions on how to hack services, software or hardware,
+                or bypass security protections. You do not access or use a service or API in a way that violates
+                its terms of service.
+            </div>
+            <br></br>
+            <h6>Public</h6>
+            <div>
+                The system can be used by people over 3 years old. It does not contain violent material, sexual material, or offensive language.
+                Does not contain ads. Sensitive information for minors is not collected.
+            </div>
+            <br></br>
+        ]]>
+    </string>
+    <string name="beta" translatable="false">beta</string>
+    <string name="alpha" translatable="false">alpha</string>
+    <string name="no_description">No hay descripción</string>
+    <string name="delete_project">Eliminar Proyecto</string>
+    <string name="must_be_not_empty">El campo no puede quedar vacío</string>
+    <string name="enter_task_name">Introduce el nombre de la tarea</string>
+    <string name="enter_description">Introduce una descripción</string>
+    <string name="choose_tag">Elige una etiqueta</string>
+    <string name="enter_project_name">Introduce un nombre para el proyecto</string>
+</resources>
